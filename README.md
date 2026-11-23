@@ -1,11 +1,20 @@
-# Kosha Demo
+# Kosha
 
-Kosha is an interactive family budgeting demo. Add transactions, plan expenses, and track savings using a fictional household's data. The demo interface is in Russian.
+An interactive family budgeting demo built around a fictional household. The demo interface is in Russian.
 
-**[Try the live demo](https://arlekinoco.github.io/kosha-demo/)**
+[**Open the live demo**](https://arlekinoco.github.io/kosha-demo/) · [Download the standalone HTML](https://raw.githubusercontent.com/ArlekinoCo/kosha-demo/main/kosha-demo.html)
+
+![Kosha cover illustration with a stylized budget chart and panels for transactions, budgets, and savings](assets/kosha-cover.png)
+
+## Explore the demo
+
+- **Transactions** — add income and expenses and review account activity.
+- **Budgets** — set spending limits by category.
+- **Savings** — track progress toward goals.
+- **Subscriptions** — review recurring expenses.
 
 ## Run offline
 
-[Download `kosha-demo.html`](https://raw.githubusercontent.com/ArlekinoCo/kosha-demo/main/kosha-demo.html) and open it in your browser. It runs as a standalone file without dependencies or a local server.
+Download `kosha-demo.html` and open it in your browser. The file runs without installing dependencies or starting a server. Changes made in the demo stay in the current browser.
 
 `index.html` is the GitHub Pages entry point.
