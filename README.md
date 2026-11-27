@@ -2,7 +2,7 @@
 
 A family budgeting prototype you can explore with a fictional household.
 
-[**Try Kosha online**](https://arlekinoco.github.io/kosha-demo/) · [Run offline](#run-offline)
+[**Try Kosha online**](https://hushryn.github.io/kosha-demo/) · [Run offline](#run-offline)
 
 ![Kosha cover with a budget chart and cards for transactions, budgets, and savings](assets/kosha-cover.png)
 
@@ -16,4 +16,4 @@ Choose English, Russian, Spanish, German, or French and set your preferred curre
 
 ## Run offline
 
-Open the [HTML file on GitHub](https://github.com/ArlekinoCo/kosha-demo/blob/main/kosha-demo.html), select **Download raw file**, and open the downloaded file in your browser. The standalone version runs without installing anything or starting a server. Your changes stay in your browser.
+Open the [HTML file on GitHub](https://github.com/hushryn/kosha-demo/blob/main/kosha-demo.html), select **Download raw file**, and open the downloaded file in your browser. The standalone version runs without installing anything or starting a server. Your changes stay in your browser.
