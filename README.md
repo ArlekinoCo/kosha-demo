@@ -15,7 +15,7 @@ A family budgeting prototype you can explore with a fictional household.
 - Review subscriptions and recurring expenses.
 - Compare amounts using reference exchange rates.
 
-Choose English, Russian, Spanish, German, or French and set your preferred currency. The homepage preview uses the same fictional household as the demo.
+Kosha supports 12 languages, including Simplified Chinese, Hindi, Arabic, Bengali, Portuguese, Indonesian, and Urdu. Choose from 17 currencies. The homepage preview uses the same fictional household as the demo.
 
 ![Kosha dashboard with sample USD income, expenses, budget and savings goal](assets/kosha-dashboard.png)
 
